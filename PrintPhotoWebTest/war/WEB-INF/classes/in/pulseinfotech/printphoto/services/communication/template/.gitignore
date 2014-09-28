@@ -1,0 +1,16 @@
+/MailTemplate.class
+/MessageTemplate.class
+/OrderCancellationTemplate.class
+/OrderConfirmationTemplate.class
+/OrderPendingTemplate.class
+/OrderTemplate.class
+/PromotionTemplate.class
+/RegistrationCancellationTemplate.class
+/RegistrationConfirmationTemplate.class
+/RegistrationTemplate.class
+/ShipmentDeliveredTemplate.class
+/ShipmentReachedTemplate.class
+/ShipmentShippedTemplate.class
+/SimpleMessageTemplate.class
+/ThanksTemplate.class
+/TrackingTemplate.class
